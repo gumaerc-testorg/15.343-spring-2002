@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/daecffd5eae04fd77479f76ae7e7af33_mod6IndependentContractorRelati.pdf
+file: /media/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/daecffd5eae04fd77479f76ae7e7af33_mod6IndependentContractorRelati.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: mod6IndependentContractorRelati.pdf
 uid: daecffd5-eae0-4fd7-7479-f76ae7e7af33

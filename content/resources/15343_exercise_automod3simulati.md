@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'Module 3: Implementation simulation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/74a2708ec52adbd814bb41744c138a93_15343_exercise_Automod3simulati.pdf
+file: /media/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/74a2708ec52adbd814bb41744c138a93_15343_exercise_Automod3simulati.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: 15343_exercise_Automod3simulati.pdf
 uid: 74a2708e-c52a-dbd8-14bb-41744c138a93

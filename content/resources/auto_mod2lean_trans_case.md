@@ -7,8 +7,13 @@ description: MIT/Sloan Foundation Industry System Study prepared by the course p
   The study neither represents what is purely ?best? or ?worst? practice ? it is a
   presentation of complex system realities in order to help deepen understanding of
   these issues.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/23238700a8f84ccb5dbb03bba85573df_auto_mod2lean_trans_case.pdf
+file: /media/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/23238700a8f84ccb5dbb03bba85573df_auto_mod2lean_trans_case.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: auto_mod2lean_trans_case.pdf
 uid: 23238700-a8f8-4ccb-5dbb-03bba85573df
