@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: x__15343_hp_mit_presentation_21902.pdf
 uid: 7eb4df2a-24b6-5646-e36b-f635c2d46c37

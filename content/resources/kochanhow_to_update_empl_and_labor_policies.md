@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: kochanhow_to_update_empl_and_labor_policies.pdf
 uid: abcf9383-e7a1-517d-1e1e-aa25443e8641

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: urlgoto.pdf
 uid: 801e9870-89fb-f854-2ddd-486dd2d8789f

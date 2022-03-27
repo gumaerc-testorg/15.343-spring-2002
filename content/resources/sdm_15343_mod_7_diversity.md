@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: SDM_15343_mod_7_Diversity.pdf
 uid: b52d4702-9079-bd0c-061b-db2112827c5f

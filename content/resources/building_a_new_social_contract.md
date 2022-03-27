@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: building_a_new_social_contract.pdf
 uid: 02154cb5-c8ca-730b-c171-642619b6f22f

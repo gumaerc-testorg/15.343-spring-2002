@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: outlookrightstuff(jun01).pdf
 uid: 2f9aed05-ab02-8cfc-c5d4-3bd8054c1752

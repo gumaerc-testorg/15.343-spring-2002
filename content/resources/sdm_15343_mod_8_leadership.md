@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: SDM_15343_mod_8_Leadership.pdf
 uid: 5dc6ca9e-88a4-ca23-9ccd-d32ae858615f

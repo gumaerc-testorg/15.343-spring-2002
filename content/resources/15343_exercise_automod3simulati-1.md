@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: 15343_exercise_Automod3simulati.pdf
 uid: d8553193-21fe-f5bc-4cb3-a70e5aba678c

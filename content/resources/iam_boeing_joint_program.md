@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: iam_boeing_joint_program.pdf
 uid: 9acdcaa2-6f1b-2cf2-2777-608b3b7bdf57

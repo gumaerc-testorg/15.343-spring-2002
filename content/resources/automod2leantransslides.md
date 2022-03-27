@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: Automod2leantransslides.pdf
 uid: 50bb1347-aa0d-6766-1b68-707442b14fcc

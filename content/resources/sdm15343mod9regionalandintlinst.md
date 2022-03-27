@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: f2aa86d9-3761-7f3c-3bc3-7c988cb5a56f
 resourcetype: Document
 title: SDM15343mod9regionalandintlinst.pdf
 uid: a72322a2-006e-bdc8-c770-c3e249c60725

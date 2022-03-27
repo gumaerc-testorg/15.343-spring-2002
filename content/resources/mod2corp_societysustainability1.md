@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: mod2Corp_Societysustainability1.pdf
 uid: c8b0cd7e-7eb6-58a1-3208-85ded71137a1

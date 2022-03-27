@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: orlikowskimanagingusenottechnology.pdf
 uid: 494b34de-507a-a746-1598-c3822d0fccc2

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: c_documents_and_settings_tkochan_mydocuments_tpp_op_class_networkingfinalbook.pdf
 uid: f8b9bfdf-df19-a1a3-8cbc-a49df79bf512

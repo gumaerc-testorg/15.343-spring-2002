@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: cohen_studying_industries_and_people_reading.pdf
 uid: 16f67d19-c8bf-1d11-255f-064beb3875a3

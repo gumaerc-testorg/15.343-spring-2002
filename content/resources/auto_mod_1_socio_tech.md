@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: Auto_mod_1_socio_tech.pdf
 uid: f95488d8-2bec-6e6d-bf49-86308b678f2c

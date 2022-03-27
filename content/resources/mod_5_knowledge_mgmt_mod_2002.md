@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: mod_5_knowledge_mgmt_mod_2002.pdf
 uid: 079719e1-c987-6c98-4945-6636ae0800fc

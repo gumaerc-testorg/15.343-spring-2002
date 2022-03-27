@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: ukpartnershippaper.pdf
 uid: 4d47eaeb-7e7e-bb8a-e4e3-556a8442bbdf

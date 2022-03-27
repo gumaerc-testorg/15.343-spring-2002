@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 807597fa-34d1-455e-5e51-0926da7f0ddd
 resourcetype: Document
 title: mod4aaddtlworkfamilymaterial.pdf
 uid: dd78859e-8cbc-de7e-a546-13e2ca7e2347

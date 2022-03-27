@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: f2aa86d9-3761-7f3c-3bc3-7c988cb5a56f
 resourcetype: Document
 title: 15343_exercise_Automod3simulati.pdf
 uid: 74a2708e-c52a-dbd8-14bb-41744c138a93

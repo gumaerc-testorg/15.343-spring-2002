@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: f2aa86d9-3761-7f3c-3bc3-7c988cb5a56f
 resourcetype: Document
 title: mod6IndependentContractorRelati.pdf
 uid: c8abdd93-fb3b-667d-02c6-2373272159be

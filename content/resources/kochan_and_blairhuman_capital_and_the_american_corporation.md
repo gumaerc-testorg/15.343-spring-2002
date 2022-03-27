@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: kochan_and_blairhuman_capital_and_the_american_corporation.pdf
 uid: 4993f093-3a08-5916-c507-5af892c6536e

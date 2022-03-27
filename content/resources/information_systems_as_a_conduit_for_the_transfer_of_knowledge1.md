@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: information_systems_as_a_conduit_for_the_transfer_of_knowledge1.pdf
 uid: 433233e6-ec5b-4d2e-6047-f2a1048feb69
