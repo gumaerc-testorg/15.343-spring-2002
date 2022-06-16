@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ McGregor, Douglas. "The Human Side of the Enterprise." 1957 Sloan Convocation le
 
 "New Realities in Today's Workforce." In _The Towers Perrin Report 2001_. ([www.towersperrin.com](http://www.towersperrin.com/))
 
-Herman, Alexis M. "Futurework: Trends and Challenges for Work in the 21st Century." Executive Summary, Labor Day 1999 -- A Report of the United States Department of Labor. ([PDF]({{< baseurl >}}/resources/execsum))
+Herman, Alexis M. "Futurework: Trends and Challenges for Work in the 21st Century." Executive Summary, Labor Day 1999 -- A Report of the United States Department of Labor. ({{% resource_link 26ac0661-3997-3308-4f72-c8e52981faea "PDF" %}})
 
 
 {{< tdclose >}}
@@ -52,7 +53,7 @@ Ehrenfeld, John R. "Colorless Green Ideas Sleep Furiously: Is the Emergence of "
 
 Senge, Peter. "From the Chair." _Reflections_ 1, 4 (Summer 2000): 74-75.
 
-The MIT 21st Century Manifesto Working Group.\* "What do we really want? A manifesto for the organizations of the 21st Century." MIT Initiative on Inventing the Organizations of the 21st Century -- Discussion Paper. November 1999. ([PDF]({{< baseurl >}}/resources/urlgoto))
+The MIT 21st Century Manifesto Working Group.\* "What do we really want? A manifesto for the organizations of the 21st Century." MIT Initiative on Inventing the Organizations of the 21st Century -- Discussion Paper. November 1999. ({{% resource_link 801e9870-89fb-f854-2ddd-486dd2d8789f "PDF" %}})
 
 \*The MIT 21st Century Manifesto Working Group includes the following MIT faculty members: Deborah Ancona, Lotte Bailyn, Erik Brynjolfsson, John Carroll, Tom Kochan, Don Lessard, Thomas Malone (chair), Wanda Orlikowski, Jack Rockart, Michael Scott Morton, Peter Senge, John Sterman, and JoAnne Yates.
 
@@ -128,11 +129,11 @@ Report of the 21st Century Workforce Commission. (Read the Executive Summary and
 
 Cohen, Hirsh. "Studying Industries and Their People." _Perspectives on Work_ 2, 1 (1998): 13-17.
 
-Cutcher-Gershenfeld, Joel, and Thomas Kochan. "Integrating Social and Technical Systems: Lessons from the Auto Industry." ([PDF]({{< baseurl >}}/resources/integrating_social_and_tech_sys))
+Cutcher-Gershenfeld, Joel, and Thomas Kochan. "Integrating Social and Technical Systems: Lessons from the Auto Industry." ({{% resource_link 17215da8-a80b-fbc0-d341-c1f6be0721cf "PDF" %}})
 
 Instructions for the Auto Industry "Brownfield" Transformation Simulation.
 
-Cutcher-Gershenfeld, Joel. "Passing the Point of No Return: Accelerated Implementation of a Lean Manufacturing System." ([PDF]({{< baseurl >}}/resources/auto_mod2lean_trans_case))
+Cutcher-Gershenfeld, Joel. "Passing the Point of No Return: Accelerated Implementation of a Lean Manufacturing System." ({{% resource_link 23238700-a8f8-4ccb-5dbb-03bba85573df "PDF" %}})
 
 
 {{< tdclose >}}

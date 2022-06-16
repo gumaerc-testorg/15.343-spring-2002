@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Module 1: Integrating Social and Technical Systems'
-file: /media/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/f95488d82bec6e6dbf4986308b678f2c_Auto_mod_1_socio_tech.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/f95488d82bec6e6dbf4986308b678f2c_Auto_mod_1_socio_tech.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Auto_mod_1_socio_tech.pdf
 uid: f95488d8-2bec-6e6d-bf49-86308b678f2c
 ---
+Module 1: Integrating Social and Technical Systems
+

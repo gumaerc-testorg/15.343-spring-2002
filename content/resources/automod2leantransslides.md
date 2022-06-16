@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/50bb1347aa0d67661b68707442b14fcc_Automod2leantransslides.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/50bb1347aa0d67661b68707442b14fcc_Automod2leantransslides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

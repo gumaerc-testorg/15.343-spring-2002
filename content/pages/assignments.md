@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Information on the assignments to be submitted in the duration of the
+  course. Does not contain links.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
