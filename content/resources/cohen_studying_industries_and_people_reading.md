@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cohen_studying_industries_and_people_reading.pdf
 uid: 16f67d19-c8bf-1d11-255f-064beb3875a3
 ---
 Studying Industries and Their People
-

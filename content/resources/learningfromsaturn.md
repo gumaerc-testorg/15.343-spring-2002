@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: learningfromsaturn.pdf
 uid: 5e87545f-21c9-884b-606a-e52d2b053c9f
 ---
 Learning from Saturn: Possibilities for Corporate Governance and Employee Relations
-

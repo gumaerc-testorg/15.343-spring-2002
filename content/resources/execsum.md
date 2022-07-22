@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: execsum.pdf
 uid: 26ac0661-3997-3308-4f72-c8e52981faea
 ---
 Futurework Trends and Challenges for Work in the 21st Century
-

@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: workfamilysum.pdf
 uid: 5495eb37-d74c-86d7-8aac-7f9d70334f8c
 ---
 Integrating Work And Family Life A Holistic Approach
-

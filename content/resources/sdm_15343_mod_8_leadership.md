@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: SDM_15343_mod_8_Leadership.pdf
 uid: 5dc6ca9e-88a4-ca23-9ccd-d32ae858615f
 ---
 This resource contains information about leadership skills for the 21st century and five core leadership capabilities: adapted from the "sloan model".
-

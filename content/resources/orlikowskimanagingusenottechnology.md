@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: orlikowskimanagingusenottechnology.pdf
 uid: 494b34de-507a-a746-1598-c3822d0fccc2
 ---
 Managing Use Not Technology: A View From the Trenches
-

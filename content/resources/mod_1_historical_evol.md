@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mod_1_historical_evol.pdf
 uid: 560f6605-516a-1a5d-56fe-351c5f8039b4
 ---
 Managing Transformations in Work, Organizations & Society: Session 1: Managing the Changing Workforce and the Changing Nature of Work
-

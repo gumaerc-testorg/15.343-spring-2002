@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: outlookrightstuff(jun01).pdf
 uid: 2f9aed05-ab02-8cfc-c5d4-3bd8054c1752
 ---
 The Right Stuff
-

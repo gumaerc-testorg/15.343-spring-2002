@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Auto_mod_1_socio_tech.pdf
 uid: f95488d8-2bec-6e6d-bf49-86308b678f2c
 ---
 Module 1: Integrating Social and Technical Systems
-

@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mod_4_work_family_session.pdf
 uid: 2a1f3e9d-001a-ba06-8a76-f423704d6846
 ---
 This resource contain information about the changing workforce: implications for work and family integration and check-in from module 3: strategic partnerships.
-

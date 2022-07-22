@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: simulation_instr.pdf
 uid: dfd35d6b-91d5-57e3-77cc-a553933f4ac2
 ---
 Instructions For the Auto Industry ?Brownfield? Transformation Simulation
-

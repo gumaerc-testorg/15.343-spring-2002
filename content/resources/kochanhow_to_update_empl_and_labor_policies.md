@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kochanhow_to_update_empl_and_labor_policies.pdf
 uid: abcf9383-e7a1-517d-1e1e-aa25443e8641
 ---
 Jump-Starting a New Debate: How to Update Employment and Labor Policies for the 21st Century Workforce and Economy
-

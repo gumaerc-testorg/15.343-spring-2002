@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lfmsdm_whitepaper_knowledge_mgt_excerpt.pdf
 uid: aec57677-a748-1277-e4a2-749e1d5b53b9
 ---
 A Strategic Vision: Building on and Strengthening the Success of the LFM and SDM Programs: Leaders for the Total Enterprise
-

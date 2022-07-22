@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 33102ej_diversity_network_paper_final.pdf
 uid: af8aa763-af69-ca6d-51d8-f71ffaf5f094
 ---
 The Effects of Diversity on Business Performance: Report of a Feasibility Study of the Diversity Research Network
-

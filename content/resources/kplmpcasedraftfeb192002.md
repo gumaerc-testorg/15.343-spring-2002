@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kplmpcasedraftfeb192002.pdf
 uid: 546dbd21-b654-0692-f11a-501e9d632447
 ---
 Taking Stock of the Kaiser Permanente Labor Management Partnership: A Mid Course Assessment
-

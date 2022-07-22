@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: x__15343_hp_mit_presentation_21902.pdf
 uid: 7eb4df2a-24b6-5646-e36b-f635c2d46c37
 ---
 HP?s Efforts Towards Environmental Sustainability
-

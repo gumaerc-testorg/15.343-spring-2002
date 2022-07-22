@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kochan_and_blairhuman_capital_and_the_american_corporation.pdf
 uid: 4993f093-3a08-5916-c507-5af892c6536e
 ---
 Human Capital and the American Corporation: Perspectives from Industry
-

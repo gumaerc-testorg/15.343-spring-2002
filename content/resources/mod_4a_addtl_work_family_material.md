@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mod_4a_addtl_work_family_material.pdf
 uid: dae55fa0-9aad-5036-041c-257830da5144
 ---
 This resource contains information about managing transformations in Work, organizations and society and top reason for selecting current employee.
-

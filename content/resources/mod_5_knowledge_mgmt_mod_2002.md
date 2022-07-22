@@ -6,6 +6,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mod_5_knowledge_mgmt_mod_2002.pdf
 uid: 079719e1-c987-6c98-4945-6636ae0800fc
 ---
 This resource contains information about knowledge work and knowledge management: integrating IT and human capital in the 21st century corporation.
-

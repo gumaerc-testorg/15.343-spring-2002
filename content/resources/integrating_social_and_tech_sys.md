@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Integrating_Social_and_Tech_Sys.pdf
 uid: 17215da8-a80b-fbc0-d341-c1f6be0721cf
 ---
 MIT/Sloan Foundation Industry System Study.
-

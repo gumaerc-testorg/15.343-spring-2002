@@ -5,6 +5,7 @@ file: /courses/15-343-managing-transformations-in-work-organizations-and-society
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: iam_boeing_joint_program.pdf
 uid: 9acdcaa2-6f1b-2cf2-2777-608b3b7bdf57
 ---
 IAM/Boeing Joint Programs: A Decade of Learning
-
