@@ -34,7 +34,7 @@ Kochan, Thomas. "Building a New Social Contract at Work: A Call to Action." _Per
 
 McGregor, Douglas. "The Human Side of the Enterprise." 1957 Sloan Convocation lecture introducing Theory X and Theory Y.
 
-"New Realities in Today's Workforce." In _The Towers Perrin Report 2001_. ([www.towersperrin.com](http://www.towersperrin.com/))
+"New Realities in Today's Workforce." In _The Towers Perrin Report 2001_. ({{% resource_link "04c81288-b476-45dc-b58a-7070f42f9c41" "www.towersperrin.com" %}})
 
 Herman, Alexis M. "Futurework: Trends and Challenges for Work in the 21st Century." Executive Summary, Labor Day 1999 -- A Report of the United States Department of Labor. ({{% resource_link 26ac0661-3997-3308-4f72-c8e52981faea "PDF" %}})
 
@@ -91,7 +91,7 @@ Bailyn, Lotte, Robert Drago, and Thomas Kochan. "Integrating Work and Family: To
 
 Kochan, Thomas. "Part-Time Partner Redux." Draft case.
 
-"More than Part-Time: The Effect of Reduced-Hours Arrangements on the Retention, Recruitment, and Success of Women Attorneys in Law Firms." A Report of the Employment Issues Committee of the Women's Bar Association of Massachusetts, 2000 (Read the Executive Summary). The full report is available at [www.womensbar.org](https://wbawbf.org/)
+"More than Part-Time: The Effect of Reduced-Hours Arrangements on the Retention, Recruitment, and Success of Women Attorneys in Law Firms." A Report of the Employment Issues Committee of the Women's Bar Association of Massachusetts, 2000 (Read the Executive Summary). The full report is available at {{% resource_link "a62a09f2-90c4-49ee-9e14-03fbd560c110" "www.womensbar.org" %}}
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Leaders for the Total Enterprise. "A Strategic Vision: Building on and Strengthe
 
 Orlikowski, Wanda. "Managing Use Not Technology: A View from the Trenches." _Financial Times_ (22 Mar. 1999): 10-11. (Mastering Information Management Section)
 
-Report of the 21st Century Workforce Commission. (Read the Executive Summary and Chapter 1 and the Conclusions. Skim through the rest. It can be found at: [https://web.archive.org/web/20011127163928/http://workforce21.org/](https://web.archive.org/web/20011127163928/http://workforce21.org/) )
+Report of the 21st Century Workforce Commission. (Read the Executive Summary and Chapter 1 and the Conclusions. Skim through the rest. It can be found at: {{% resource_link "1da2a48c-7f41-4d5b-8390-f573a038596c" "https://web.archive.org/web/20011127163928/http://workforce21.org/" %}} )
 
 
 {{< tdclose >}}
@@ -150,9 +150,9 @@ Batt, Rosemary, Susan Christopherson, Ned Rightor, and Dannielle Van Jaarsveld. 
 
 Talent Wars excerpt no. 2 (Found at the following websites)  
 Winning the Talent Wars (PDF)  
-[www.aquent.com](http://www.aquent.com/) (Skim their website)  
-[www.monster.com](http://www.monster.com/) (Skim their website)  
-[http://urlm.co/www.workingtoday.org](http://urlm.co/www.workingtoday.org) (Skim their website)
+{{% resource_link "54fa7a88-6897-4d72-941f-6792b8c4cd94" "www.aquent.com" %}} (Skim their website)  
+{{% resource_link "7574a362-8a4f-4f20-b06a-4c5caf73e1ef" "www.monster.com" %}} (Skim their website)  
+{{% resource_link "8c65c148-cfbc-4104-b840-8a687475471b" "http://urlm.co/www.workingtoday.org" %}} (Skim their website)
 
 
 {{< tdclose >}}
@@ -165,7 +165,7 @@ Winning the Talent Wars (PDF)
 {{< tdopen >}}
 
 
-Fannie Mae Diversity Workbook. (Skim and consider using as a benchmark against practices in your company.) It can be found at: [http://www.fanniemae.com/portal/index.html](http://www.fanniemae.com/portal/index.html)
+Fannie Mae Diversity Workbook. (Skim and consider using as a benchmark against practices in your company.) It can be found at: {{% resource_link "4a1e8226-43d4-4fed-b551-d64000abe0ef" "http://www.fanniemae.com/portal/index.html" %}}
 
 
 {{< tdclose >}}
