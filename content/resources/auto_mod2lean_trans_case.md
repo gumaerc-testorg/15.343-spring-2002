@@ -8,6 +8,7 @@ description: MIT/Sloan Foundation Industry System Study prepared by the course p
   presentation of complex system realities in order to help deepen understanding of
   these issues.
 file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/23238700a8f84ccb5dbb03bba85573df_auto_mod2lean_trans_case.pdf
+file_size: 150063
 file_type: application/pdf
 learning_resource_types:
 - Readings
