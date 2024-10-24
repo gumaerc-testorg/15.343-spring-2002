@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Module 1: Integrating Social and Technical Systems'
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/f95488d82bec6e6dbf4986308b678f2c_Auto_mod_1_socio_tech.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/f95488d82bec6e6dbf4986308b678f2c_Auto_mod_1_socio_tech.pdf
 file_size: 386380
 file_type: application/pdf
 learning_resource_types:

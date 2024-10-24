@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'IAM/Boeing Joint Programs: A Decade of Learning'
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/9acdcaa26f1b2cf22777608b3b7bdf57_iam_boeing_joint_program.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/9acdcaa26f1b2cf22777608b3b7bdf57_iam_boeing_joint_program.pdf
 file_size: 169404
 file_type: application/pdf
 learning_resource_types:

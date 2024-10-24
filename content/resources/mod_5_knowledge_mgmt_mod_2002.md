@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about knowledge work and knowledge
   management: integrating IT and human capital in the 21st century corporation.'
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/079719e1c9876c9849456636ae0800fc_mod_5_knowledge_mgmt_mod_2002.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/079719e1c9876c9849456636ae0800fc_mod_5_knowledge_mgmt_mod_2002.pdf
 file_size: 161370
 file_type: application/pdf
 learning_resource_types:
