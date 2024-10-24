@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Studying Industries and Their People
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/16f67d19c8bf1d11255f064beb3875a3_cohen_studying_industries_and_people_reading.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/16f67d19c8bf1d11255f064beb3875a3_cohen_studying_industries_and_people_reading.pdf
 file_size: 490055
 file_type: application/pdf
 learning_resource_types:
