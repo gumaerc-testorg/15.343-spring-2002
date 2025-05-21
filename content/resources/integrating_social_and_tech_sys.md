@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MIT/Sloan Foundation Industry System Study.
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/17215da8a80bfbc0d341c1f6be0721cf_Integrating_Social_and_Tech_Sys.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/17215da8a80bfbc0d341c1f6be0721cf_Integrating_Social_and_Tech_Sys.pdf
 file_size: 201228
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Module 3: Implementation simulation.'
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/74a2708ec52adbd814bb41744c138a93_15343_exercise_Automod3simulati.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/74a2708ec52adbd814bb41744c138a93_15343_exercise_Automod3simulati.pdf
 file_size: 195841
 file_type: application/pdf
 learning_resource_types: []
