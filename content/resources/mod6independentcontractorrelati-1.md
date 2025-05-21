@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/daecffd5eae04fd77479f76ae7e7af33_mod6IndependentContractorRelati.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/daecffd5eae04fd77479f76ae7e7af33_mod6IndependentContractorRelati.pdf
 file_size: 102628
 file_type: application/pdf
 learning_resource_types:

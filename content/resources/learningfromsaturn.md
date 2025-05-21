@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Learning from Saturn: Possibilities for Corporate Governance and Employee
   Relations'
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/5e87545f21c9884b606ae52d2b053c9f_learningfromsaturn.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/5e87545f21c9884b606ae52d2b053c9f_learningfromsaturn.pdf
 file_size: 7849145
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Managing Strategic Partnerships
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a1a23fa65a42f9557150207cc834c328_mod3strategicpartnershipslides.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a1a23fa65a42f9557150207cc834c328_mod3strategicpartnershipslides.pdf
 file_size: 102203
 file_type: application/pdf
 learning_resource_types:
