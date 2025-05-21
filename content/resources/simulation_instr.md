@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions For the Auto Industry ?Brownfield? Transformation Simulation
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/dfd35d6b91d557e377cca553933f4ac2_simulation_instr.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/dfd35d6b91d557e377cca553933f4ac2_simulation_instr.pdf
 file_size: 172195
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Right Stuff
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/2f9aed05ab028cfcc5d43bd8054c1752_outlookrightstuff%28jun01%29.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/2f9aed05ab028cfcc5d43bd8054c1752_outlookrightstuff(jun01).pdf
 file_size: 186511
 file_type: application/pdf
 learning_resource_types:

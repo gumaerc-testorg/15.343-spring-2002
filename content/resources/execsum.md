@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Futurework Trends and Challenges for Work in the 21st Century
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/26ac0661399733084f72c8e52981faea_execsum.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/26ac0661399733084f72c8e52981faea_execsum.pdf
 file_size: 198938
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/685539f12f59748f45131c1dd0591904_mod4workfamilysession.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/685539f12f59748f45131c1dd0591904_mod4workfamilysession.pdf
 file_size: 100455
 file_type: application/pdf
 learning_resource_types:

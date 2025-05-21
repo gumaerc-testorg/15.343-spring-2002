@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Human Capital and the American Corporation: Perspectives from Industry'
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/4993f0933a085916c5075af892c6536e_kochan_and_blairhuman_capital_and_the_american_corporation.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/4993f0933a085916c5075af892c6536e_kochan_and_blairhuman_capital_and_the_american_corporation.pdf
 file_size: 572803
 file_type: application/pdf
 learning_resource_types:

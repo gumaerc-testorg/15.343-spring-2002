@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Towers Perrin Report 2001: New Realities in Today?s Workforce'
-file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a422c2fa822af30286f63d5d0a302081_talelnt_mgmt_report.pdf
+file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a422c2fa822af30286f63d5d0a302081_talelnt_mgmt_report.pdf
 file_size: 643052
 file_type: application/pdf
 learning_resource_types:
