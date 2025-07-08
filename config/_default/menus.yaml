@@ -9,7 +9,7 @@ leftnav:
   weight: 20
 - identifier: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
   name: Readings
-  pageRef: /pages/readings-test
+  pageRef: /pages/readings
   weight: 30
 - identifier: 807597fa-34d1-455e-5e51-0926da7f0ddd
   name: Lecture Notes
