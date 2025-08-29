@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about what do we really want? a manifesto
   for the organizations of the 21st century.
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/801e987089fbf8542ddd486dd2d8789f_urlgoto.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/801e987089fbf8542ddd486dd2d8789f_urlgoto.pdf
 file_size: 58273
 file_type: application/pdf
 learning_resource_types:
