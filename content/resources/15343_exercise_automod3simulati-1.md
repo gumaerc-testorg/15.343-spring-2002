@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/d855319321fef5bc4cb3a70e5aba678c_15343_exercise_Automod3simulati.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/d855319321fef5bc4cb3a70e5aba678c_15343_exercise_Automod3simulati.pdf
 file_size: 195841
 file_type: application/pdf
 learning_resource_types:
