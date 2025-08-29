@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about corporation in society: managing
   for sustainability and climate change internally.'
-file: /courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a9abc7d9f781e30f4ce8ac1a5986c896_mod_2_Corp_Society_sustainability1.pdf
+file: /ol-ocw-studio-app/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/a9abc7d9f781e30f4ce8ac1a5986c896_mod_2_Corp_Society_sustainability1.pdf
 file_size: 234300
 file_type: application/pdf
 learning_resource_types:
